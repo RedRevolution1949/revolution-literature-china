@@ -1,9 +1,9 @@
-[submodule "中国工农"]
-	path = 中国工农
-	url = https://github.com/RedRevolution1949/revolution-literature-china-workerfarmer.git
 [submodule "广东革命历史文件汇集（1921-1949）"]
 	path = 广东革命历史文件汇集（1921-1949）
 	url = https://github.com/RedRevolution1949/revolution-literature-china-guangdong.git
 [submodule "革命与建国"]
 	path = 革命与建国
 	url = https://github.com/RedRevolution1949/revolution-literature-china-after1949.git
+[submodule "中国工农"]
+	path = 中国工农
+	url = https://github.com/RedRevolution1949/revolution-literature-china-workerfarmer.git
