@@ -4,6 +4,3 @@
 [submodule "革命与建国"]
 	path = 革命与建国
 	url = https://github.com/RedRevolution1949/revolution-literature-china-after1949.git
-[submodule "中国工农"]
-	path = 中国工农
-	url = https://github.com/RedRevolution1949/revolution-literature-china-workerfarmer.git
